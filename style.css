@@ -1,6 +1,19 @@
 header{
     background-color: white;
-    color: blue;
+    color: red;
     padding: 10px;
     text-align: center;
+    font-family: Comic Sans MS
+}
+
+nav{
+   background-color: aqua;
+}
+
+section{
+    text-align: center;
+}
+
+p{
+    color: green;
 }
